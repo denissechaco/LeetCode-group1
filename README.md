@@ -12,19 +12,19 @@ This repository contains implementations of leetcode problems in **Python, Java 
 ```
 LeetCode-group1/
   │
-  ├── python/
+  ├── Python/
   │ ├── Problem1.py
   │ ├── Problem2.py
   │ ├── Problem3.py
   │ └── Problem4.py
   │
-  ├── java/
+  ├── Java/
   │ ├── Problem1.java
   │ ├── Problem2.java
   │ ├── Problem3.java
   │ └── Problem4.java
   │
-  └── typescript/
+  └── Typescript/
   ├── Problem1.ts
   ├── Problem2.ts
   ├── Problem3.ts
