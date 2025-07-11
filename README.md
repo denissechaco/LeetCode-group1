@@ -9,7 +9,8 @@ This repository contains implementations of leetcode problems in **Python, Java 
 - **Problem 4 :** Regular Expression Matching
 
 ## Repository Structure
-'''LeetCode-group1/
+```
+LeetCode-group1/
   │
   ├── python/
   │ ├── Problem1.py
@@ -28,4 +29,4 @@ This repository contains implementations of leetcode problems in **Python, Java 
   ├── Problem2.ts
   ├── Problem3.ts
   └── Problem4.ts
-  '''
+  ```
